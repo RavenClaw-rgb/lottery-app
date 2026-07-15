@@ -1,17 +1,30 @@
-# lottery_app
+# \# Lottery App
 
-A new Flutter project.
+# 
 
-## Getting Started
+# A simple Flutter app that simulates a lottery draw. Tap the button to generate a random number (0–5) — if it matches the winning number (5), you win!
 
-This project is a starting point for a Flutter application.
+# 
 
-A few resources to get you started if this is your first Flutter project:
+# \## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+# \- Random number generation using Dart's `Random` class
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# \- Dynamic UI that updates based on win/lose state (`setState`)
+
+# \- Simple, clean interface built with Flutter widgets
+
+# 
+
+# \## Built with
+
+# \- Flutter
+
+# \- Dart
+
+# 
+
+# \## Purpose
+
+# Built as a practice project to learn state management and conditional UI rendering in Flutter.
+
